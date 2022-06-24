@@ -11,7 +11,7 @@
 <br>
 
 <img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/9/9a/Flag-ar.svg/revision/latest/smart/width/40/height/30?cb=20190630002850" alt="Flag-ar.svg" >
-<img  style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/3/39/Flag-en.svg/revision/latest/smart/width/40/height/30?cb=20160603164859" alt="Flag-en.svg">
+<img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/3/39/Flag-en.svg/revision/latest/smart/width/40/height/30?cb=20160603164859" alt="Flag-en.svg">
 <img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/a/a1/Flag-tr.svg/revision/latest/smart/width/40/height/30?cb=20160603170330" alt="Flag-tr.svg">
 <img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/a/ad/Flag-ko.svg/revision/latest/smart/width/40/height/30?cb=20160603165551" alt="Flag-ko.svg" >
 <img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/5/52/Flag-ru.svg/revision/latest/smart/width/40/height/30?cb=20160603165913" alt="Flag-ru.svg">
@@ -28,7 +28,6 @@
 [<img align="left" style="margin-right: 10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">](https://www.instagram.com/mecid_hasan_aga/?hl=en)
 [<img align="left" style="margin-right: 10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg">](tel:++905355517164)
 
-<br>
 <br>
 <hr>
 
