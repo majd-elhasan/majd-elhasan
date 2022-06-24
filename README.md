@@ -18,10 +18,8 @@
 <img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/5/52/Flag-ru.svg/revision/latest/smart/width/40/height/30?cb=20160603165913" alt="Flag-ru.svg">
 <img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/d/de/Flag-zh-cn.svg/revision/latest/smart/width/40/height/30?cb=20160603164511" alt="Flag-zh-cn.svg" >
 
-
 <br>
 <br>
-
 
  ### Connect with me : 
  <br>
@@ -34,8 +32,8 @@
 <br>
 <br>
 <hr>
+
 ### programming languages and tools  :
-<br>
 <br>
 <img align="left">
 <svg  width="30" viewBox="0 0 128 128">
