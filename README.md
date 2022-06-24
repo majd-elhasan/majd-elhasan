@@ -10,9 +10,7 @@
 
 <br>
 <img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/9/9a/Flag-ar.svg/revision/latest/smart/width/40/height/30?cb=20190630002850" alt="Flag-ar.svg" >
- &nbsp;&nbsp;&nbsp;
 <img  style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/3/39/Flag-en.svg/revision/latest/smart/width/40/height/30?cb=20160603164859" alt="Flag-en.svg">
- &nbsp;&nbsp;&nbsp;  
 <img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/a/a1/Flag-tr.svg/revision/latest/smart/width/40/height/30?cb=20160603170330" alt="Flag-tr.svg">
 <img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/a/ad/Flag-ko.svg/revision/latest/smart/width/40/height/30?cb=20160603165551" alt="Flag-ko.svg" >
 <img style="margin-right: 10px" align="left" src="https://static.wikia.nocookie.net/duolingo/images/5/52/Flag-ru.svg/revision/latest/smart/width/40/height/30?cb=20160603165913" alt="Flag-ru.svg">
