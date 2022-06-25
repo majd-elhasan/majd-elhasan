@@ -9,14 +9,14 @@
  ## I love foreign languages,I use [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=us&gl=US) now I'm learning Korean on [Drops App](https://play.google.com/store/apps/details?id=com.languagedrops.drops.international&hl=en_US&gl=DE). 😊
 
 <br>
-
-<img style="margin-right: 10px" src="https://static.wikia.nocookie.net/duolingo/images/9/9a/Flag-ar.svg/revision/latest/smart/width/40/height/30?cb=20190630002850" alt="Flag-ar.svg" >
+<p float="left">
+<img style="margin-right: 10px display:inline"  src="https://static.wikia.nocookie.net/duolingo/images/9/9a/Flag-ar.svg/revision/latest/smart/width/40/height/30?cb=20190630002850" alt="Flag-ar.svg" >
 <img style="margin-right: 10px" src="https://static.wikia.nocookie.net/duolingo/images/3/39/Flag-en.svg/revision/latest/smart/width/40/height/30?cb=20160603164859" alt="Flag-en.svg">
 <img style="margin-right: 10px" src="https://static.wikia.nocookie.net/duolingo/images/a/a1/Flag-tr.svg/revision/latest/smart/width/40/height/30?cb=20160603170330" alt="Flag-tr.svg">
 <img style="margin-right: 10px" src="https://static.wikia.nocookie.net/duolingo/images/a/ad/Flag-ko.svg/revision/latest/smart/width/40/height/30?cb=20160603165551" alt="Flag-ko.svg" >
 <img style="margin-right: 10px" src="https://static.wikia.nocookie.net/duolingo/images/5/52/Flag-ru.svg/revision/latest/smart/width/40/height/30?cb=20160603165913" alt="Flag-ru.svg">
 <img style="margin-right: 10px" src="https://static.wikia.nocookie.net/duolingo/images/d/de/Flag-zh-cn.svg/revision/latest/smart/width/40/height/30?cb=20160603164511" alt="Flag-zh-cn.svg" >
-
+</p>
 <br>
 <br>
 
