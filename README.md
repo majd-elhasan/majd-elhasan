@@ -17,8 +17,7 @@
 <img style="margin-right: 10px" src="https://static.wikia.nocookie.net/duolingo/images/5/52/Flag-ru.svg/revision/latest/smart/width/40/height/30?cb=20160603165913" alt="Flag-ru.svg">
 <img style="margin-right: 10px" src="https://static.wikia.nocookie.net/duolingo/images/d/de/Flag-zh-cn.svg/revision/latest/smart/width/40/height/30?cb=20160603164511" alt="Flag-zh-cn.svg" >
 </p>
-<br>
-<br>
+
 
  ### Connect with me : 
  <br>
@@ -33,23 +32,18 @@
 
 ### programming languages and tools  :
 <br>
-<img align="left" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-<img align="left" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-<img align="left" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-
-<img align="left" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-
-<img align="left" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
+<p float="left">
+<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</p>
 <br>
-<br>
-<img align="left" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img align="left" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-
-<img align="left" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-
-<img align="left" width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-
+<p float="left">
+<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+</p>
 
