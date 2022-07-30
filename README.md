@@ -4,7 +4,7 @@
 
  ##  learning every thing about programming .
 
- ## joined java_backend_development course presented by [Kodluyoruz](https://www.kodluyoruz.org/) team. 👨‍💻
+ ## graduated from java_backend_development course presented by [Kodluyoruz](https://www.kodluyoruz.org/) team. 👨‍💻
 
  ## I love foreign languages,I use [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=us&gl=US) now I'm learning Korean on [Drops App](https://play.google.com/store/apps/details?id=com.languagedrops.drops.international&hl=en_US&gl=DE). 😊
 
