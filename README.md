@@ -25,7 +25,7 @@
  
 [<img align="left" style="margin-right: 10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/mecid-el-hasan/)
 [<img align="left" style="margin-right: 10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">](https://www.instagram.com/mecid_hasan_aga/?hl=en)
-[<img align="left" style="margin-right: 10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg">]( https://wa.me/00905355517164)
+[<img align="left" style="margin-right: 10px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg">]( https://wa.me/905355517164)
 
 <br>
 <hr>
