@@ -62,6 +62,6 @@
 <p > <img src="https://github-readme-stats.vercel.app/api?username=majd-elhasan&show_icons=true&theme=gotham" alt="majd elhasan" ></p>
 
 #### if you want to thank me ,I would be grateful if you bought me a coffee :)
-[<img width="120px" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="buy me a coffee">](buymeacoffee.com/?via=Mecid)
+[<img width="120px" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="buy me a coffee">](https://www.buymeacoffee.com/?via=Mecid)
 
 
